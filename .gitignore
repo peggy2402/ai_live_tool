@@ -1,8 +1,0 @@
-# .gitignore
-.env
-secret.key
-generated_videos/
-__pycache__/
-*.mp4
-*.log
-.DS_Store
